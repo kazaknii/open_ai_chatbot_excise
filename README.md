@@ -1,0 +1,2 @@
+# open_ai_chatbot_excise
+チャットbotの性格をstreamlitのsecretに隠すテスト
